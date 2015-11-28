@@ -1,6 +1,7 @@
 package FactoryPattern;
 /*just a simple parrten make a simple mind
  * use a simple class to contorl all the operation 
+ * change the thing
  */
 public class OperationFactory {
     private Operation operate1;
