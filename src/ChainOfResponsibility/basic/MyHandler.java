@@ -1,4 +1,6 @@
-package ChainOfResponsibility;
+package ChainOfResponsibility.basic;
+
+
 /*
  *  对于自己的同一个对象进行引用，从这条链上进行传递
  */

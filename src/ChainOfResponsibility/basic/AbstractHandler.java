@@ -1,4 +1,5 @@
-package ChainOfResponsibility;
+package ChainOfResponsibility.basic;
+
 
 public abstract class AbstractHandler {
  private Handler handler;
