@@ -1,6 +1,8 @@
 package Singleton.basic;
 /**
- *  定义一个GetInstance 操作，允许客户访问它的唯一实例。GetInstance 是一个静态方法主要负责创建自己的唯一实例
+ *  定义一个GetInstance 操作，允许客户访问它的唯一实例。
+ *  GetInstance 是一个静态方法主要负责创建自己的唯一实例
+ *  懒汉式单例模式
  * @author markla
  *
  */

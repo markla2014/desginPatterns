@@ -2,6 +2,8 @@ package Singleton;
 /**
  * multithread singlton 
  *  lock 是确保一个线程位于代码的临界区时候，另一个线程不进入临界区。如果其他线程试图进入锁定的代码，则它将一直等待直到该对象被释放
+ *  线程如果没有完成则无法进来
+ *  懒汉式单例模式
  * @author markla
  *
  */
